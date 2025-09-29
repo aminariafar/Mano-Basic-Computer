@@ -12,7 +12,7 @@ This project demonstrates the construction of a CPU from the ground up using log
 
 ## 🧱 Project Structure
 ```
-_Basic Computer.circ   # Main Logisim project file
+Basic Computer.circ   # Main Logisim project file
 ```
 
 Contains subcircuits such as:
