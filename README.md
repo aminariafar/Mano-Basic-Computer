@@ -27,7 +27,7 @@ Contains subcircuits such as:
   (or [Logisim Evolution](https://github.com/logisim-evolution/logisim-evolution))
 
 ## 🚀 Run the Project
-1. Open `_Basic Computer.circ` in Logisim.  
+1. Open `Basic Computer.circ` in Logisim.  
 2. Load the **main** circuit.  
 3. Use the clock and input pins to simulate instruction execution.  
 
